@@ -1,16 +1,43 @@
-## Hi there 👋
+#  Hello, I'm Aastha Singh!
 
-<!--
-**AasthaSingh03/AasthaSingh03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a tech enthusiast passionate about building intelligent systems, insightful data dashboards, and interactive web applications. I believe in using technology to solve real-world problems and am always looking to grow and learn more.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Skills & Tech Stack
+
+###  Web Development
+- HTML5 | CSS3 | JavaScript
+- Flask (Python Web Framework)
+
+###  AI & Machine Learning
+- Supervised & Unsupervised Learning
+- Deep Learning (CNNs, RNNs)
+- Model Optimization & Evaluation
+
+###  Data Analysis & Visualization
+- Power BI Dashboards & Reports
+- SQL (Data Queries & Joins)
+- DBMS (Relational Databases)
+
+### 🔤 Programming Languages
+- Python 🐍
+- C 🔧
+
+### 🛠 Tools & Platforms
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Google Colab
+- SQLite / MySQL
+
+
+
+##  Connect With Me
+
+- [LinkedIn](http://www.linkedin.com/in/aastha-singh-0b983424b)
+- [LeetCode](https://leetcode.com/u/AasthaSingh123/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/aasthasijtcv/)
+
+
+*Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.*
+
